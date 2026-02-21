@@ -6,11 +6,6 @@
 A minimalist, keyboard‑driven image viewer inspired by Vim.  
 Navigate through your images with Vim‑style keybindings, preview thumbnails, and never touch the mouse.
 
-![screenshot](screenshot.png)  
-*(Add a screenshot here – show the viewer with filmstrip and a sample image)*
-
----
-
 ## ✨ Features
 
 - **Vim‑style keybindings** – all actions are one key away.
