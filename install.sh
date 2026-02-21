@@ -14,8 +14,8 @@ ICON_DEST="$HOME/.local/share/icons/hicolor/128x128/apps"
 DESKTOP_DIR="$HOME/.local/share/applications"
 
 # 2. Clone or update the repository
-REPO_URL="https://github.com/yourusername/vimview"
-TAG="main"  # or "master"
+REPO_URL="https://github.com/ImaginaryIQ/vimView.git"
+TAG="main"  
 
 if command -v git &> /dev/null; then
     if [ -d "$REPO_DIR" ]; then
